@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starflight-code
 - 👀 I’m interested in Programming, Gaming and Anime
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Robotics Code and Upcomming Releases
 - 📫 How to reach me: DM me on Github or shoot me a message on Discord (StarflightGaming#5646)
 
